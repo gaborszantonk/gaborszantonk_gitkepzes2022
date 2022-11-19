@@ -1,0 +1,19 @@
+body {
+    background-color: #CD9023;
+    color: #000;
+    background-image: url(img/quill.svg);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    }
+    main {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 1rem;
+    width: 70%;
+    margin: 0 auto;
+    }
+    h1 {
+    text-align: center;
+    font-variant: small-caps;
+    }
+    p {
+    text-align: center;}
