@@ -18,3 +18,9 @@ body {
     p {
     text-align: center;}
     .datum {text-align:right}
+    a {
+        color: #CD4332;
+        }
+        a:hover {
+        color: #600;
+        }
