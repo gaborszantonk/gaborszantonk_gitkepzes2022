@@ -1,5 +1,5 @@
 body {
-    background-color: #CD9023;
+    background-color: #CD9032;
     color: #000;
     background-image: url(../img/quill.svg);
     background-size: 200px;
@@ -8,7 +8,7 @@ body {
     background-position: bottom right;
     }
     main {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.2);
     padding: 1rem;
     width: 70%;
     margin: 0 auto;
