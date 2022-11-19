@@ -2,7 +2,9 @@ body {
     background-color: #CD9023;
     color: #000;
     background-image: url(../img/quill.svg);
+    background-size: 200px;
     background-repeat: no-repeat;
+    min-height: 100vh;
     background-position: bottom right;
     }
     main {
